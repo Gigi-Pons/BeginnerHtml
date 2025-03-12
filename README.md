@@ -8,4 +8,10 @@ This html page makes use of certain useful tags such as
 - list
 - form
 
-The file uses exteranal references for the image and a webpage
+The file uses exteranal references for the image in a webpage.  
+I used ```python -m http.server 8000``` to view the html page in a browser.     
+<br>
+<br>
+## This is a visual representation of what it looks like:
+![alt text](catImage.png)
+
